@@ -1,0 +1,10 @@
+nav {
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    background-color: pink;
+}
+
+button {
+    margin: 10px;
+}

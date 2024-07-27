@@ -1,0 +1,15 @@
+.home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul * {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+li:hover {
+    text-decoration: underline;
+}
